@@ -1,6 +1,17 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.17.0] - 2019-08-03
+### Changed
+- Updated dependencies to their latest versions
+### Fixed
+- Fixed bug making it impossible to queue `null` (issue #178)
+
+## [0.16.0] - 2019-05-11
+### Changed
+- License changed to MIT
+- Updated dependencies to their latest versions
+
 ## [0.15.2] - 2019-03-09
 ### Fixed
 - Fixed bug, which crashed the cluster in some environments (#113)
